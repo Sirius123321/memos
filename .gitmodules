@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Sirius123321/memos-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Sirius123321/memos-frontend.git
